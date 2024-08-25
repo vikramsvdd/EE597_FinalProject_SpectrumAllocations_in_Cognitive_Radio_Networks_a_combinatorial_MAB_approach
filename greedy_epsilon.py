@@ -2,7 +2,8 @@
 """
 Created on Fri Oct 28 19:46:56 2022
 
-@author: Driver code for using the BanditProblem class
+@author: Alexander Haber
+Driver code for using the BanditProblem class
 This file demonstrates how to solve the multi-armed bandit problem by using
 the epsilon-greedy action value approach
 
